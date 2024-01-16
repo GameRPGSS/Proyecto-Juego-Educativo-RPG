@@ -1,0 +1,37 @@
+{
+  "kind": "collectionType",
+  "collectionName": "preguntas",
+  "info": {
+    "singularName": "pregunta",
+    "pluralName": "preguntas",
+    "displayName": "pregunta",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "QTE": {
+      "type": "string"
+    },
+    "Pregunta": {
+      "type": "text"
+    },
+    "respuesta": {
+      "type": "text"
+    },
+    "quien": {
+      "type": "text"
+    },
+    "que": {
+      "type": "text"
+    },
+    "operaciones": {
+      "type": "text"
+    },
+    "contexto": {
+      "type": "text"
+    }
+  }
+}

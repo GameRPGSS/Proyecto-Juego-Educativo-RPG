@@ -1,0 +1,24 @@
+{
+  "kind": "collectionType",
+  "collectionName": "posicions",
+  "info": {
+    "singularName": "posicion",
+    "pluralName": "posicions",
+    "displayName": "posicion"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "evento": {
+      "type": "string"
+    },
+    "posicionX": {
+      "type": "float"
+    },
+    "posicionY": {
+      "type": "float"
+    }
+  }
+}
