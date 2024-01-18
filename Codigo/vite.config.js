@@ -8,6 +8,6 @@ export default defineConfig({
   ],
   assetsDir: 'assets',
   server: {
-    port: 1000
+    port: 3000
   }
 })

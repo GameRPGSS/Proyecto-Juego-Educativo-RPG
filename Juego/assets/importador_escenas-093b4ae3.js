@@ -130,9 +130,7 @@ explicarle esto a mi novia.`, `Filiberto Tun:
 
 Entiendo, me adelantaré. Te veo en la milpa del Oeste.`, `Juan Cupul:
 
-Ahí estaré.`], pe.filberto = [`Filiberto Tun:
-
-Buenos días, Juan, te traigo buenas noticias o tal vez no tan buenas para ti.`], pe.novia = [`${ci(40)}Juan le explica a Dolores lo que sucede...`, `María Dolores:
+Ahí estaré.`], pe.novia = [`${ci(40)}Juan le explica a Dolores lo que sucede...`, `María Dolores:
 
 Ya veo, entonces eso es lo que paso.`, `Juan Cupul:
 

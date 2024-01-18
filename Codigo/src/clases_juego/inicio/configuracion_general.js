@@ -1,4 +1,4 @@
-export const apiUrl = 'https://api-rest-render-8ynf.onrender.com';
+export const apiUrl = 'http://localhost:1337';
 
 export const styleButtom = `
     width: 150px;
